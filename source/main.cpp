@@ -1,9 +1,9 @@
 /************************************************************************************************************/
 /*
-*     Name                : Andreas Basurto
-*     Date                : 04/22/12
+*     Name                : Otavio Soares Silva
+*     Date                : 01/02/16
 *     File                : main.cpp
-*     Program Description : http://www.ecst.csuchico.edu/~melody/courses/Fall2007CSCI311/Patricia_tree.htm
+*     
 */
 /************************************************************************************************************/
 
